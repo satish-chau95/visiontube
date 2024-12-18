@@ -18,7 +18,7 @@ export const YOUTUBE_ICON_URL =
 export const USER_ICON_URL =
   "https://static.vecteezy.com/system/resources/previews/000/550/731/original/user-icon-vector.jpg";
 
-export const GOOGLE_API_KEY = "AIzaSyDYDj8HiIJtcwepyJBESow6i0F_-qoWex0";
+export const GOOGLE_API_KEY = "Enter Your API Key";
 
 export const YOUTUBE_POPULAR_VIDEOS =
   " https://youtube.googleapis.com/youtube/v3/videos?part=snippet%2CcontentDetails%2Cstatistics&chart=mostPopular&maxResults=50&regionCode=IN&key=" +
