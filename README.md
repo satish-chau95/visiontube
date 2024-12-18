@@ -33,7 +33,7 @@ This project showcases techniques for building responsive, feature-rich web appl
 
 ## Special Thanks
 
-Special thanks to **Akshay Saini** for his guidance and teachings in building this project.
+Special thanks to **Akshay Saini sir** for his guidance and teachings in building this project.
 
 ## Key Learnings
 
