@@ -80,5 +80,5 @@ Special thanks to **Akshay Saini sir** for his guidance and teachings in buildin
 
 ---
 
-**Lecture watched until:** 6:03:25
+**Lecture watched:** 6:03:25
 
